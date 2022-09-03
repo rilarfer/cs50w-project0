@@ -1,0 +1,16 @@
+$colorh1: blue;
+$colorul: green;
+$colorol: red;
+ul {
+    font-size: 14px;
+    color: $colorul;
+}
+
+ol {
+    font-size: 18px;
+    color: $colorol;
+}
+
+h1{
+    color: $colorh1
+}
