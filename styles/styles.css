@@ -1,3 +1,13 @@
-h1{
-    color: blue;
+table-responsive {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: springgreen;
+    margin: 20px;
+    padding: 20px;
+
+}
+
+p {
+    width: 75%;
+    background-color: rgb(0, 183, 255);
 }
